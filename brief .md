@@ -1,22 +1,33 @@
-##Version: NAFATH-V1 
-##Track: <one of:
-Software 
-| AI 
-| Mobile 
-| Networking 
-| Cybersecurity 
-| Data>
-Misconception in My Track		 
-Open Question
-##overview: connect the six subtopics
+## Version: NAFATH-V1 
+## Track: <one of:Software | AI | Mobile | Networking | Cybersecurity | Data>Misconception in My Track		 Open Question
+## overview: connect the six subtopics
 When you log into an app or website once to access multiple government services, these six components work together simultaneously like a secure digital checkpoint.Software, AI, mobile networks, cybersecurity, and data connect through a centralized architecture called a Single Sign-On (SSO) or digital identity platform (such as Login.gov or unified national identity apps).
 research: software, ai, mobile
-##software: 
+## software: 
 OpenID Connect (OIDC) is designed for user login and authentication, while OAuth 2.0 is designed for delegated authorization and resource access.
-##AI:
+resource: https://nhimg.org/faq/what-is-the-difference-between-openid-connect-and-oauth-20-for-identity-and-acce/
+## AI:
 To deploy an AI model that flags suspicious logins safely, the authority must manage critical risks across fairness, security, privacy, and reliability as outlined by the NIST AI Risk Management Framework (AI RMF)
-##mobile:
+resource: https://nhimg.org/faq/what-is-the-difference-between-openid-connect-and-oauth-20-for-identity-and-acce/
+## mobile:
 Runtime permissions prevent apps from gaining access to private data without a user's consent, and provide them with additional context and visibility
+
+resource: https://developer.android.com/training/permissions/requesting
+
+## networking:
+DNS over HTTPS (DoH) encrypts DNS queries using HTTPS, enhancing internet privacy and security by preventing ISPs and malicious actors DNS over HTTPS represents a significant improvement in internet privacy and security. While the technical details might seem complex, the benefits are clear: better privacy, enhanced security, and protection against various forms of DNS-based attacks. Whether you’re an individual user or managing an enterprise network, implementing DoH can significantly improve your online security posture.
+resource: https://www.ssl.com/faqs/what-is-dns-over-https-doh/amp/
+## cybersecurity:
+An authentication method is phishing-resistant when it uses cryptographic domain binding. This means the authenticator automatically checks the legitimate website's or application's domain name before signing the login request.
+resource: https://www.logintc.com/blog/what-is-phishing-resistant-mfa-a-plain-language-guide/
+## data:
+Under Oman’s Personal Data Protection Law (PDPL, Royal Decree No. 6/2022), data controllers and processors (including public authorities or entities handling citizens' data) must adhere to strict obligations when collecting, processing and storing personal data
+
+resource: https://decree.om/2022/rd20220006/
+
+
+
+
 
 
 

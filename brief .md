@@ -25,6 +25,17 @@ Under Oman’s Personal Data Protection Law (PDPL, Royal Decree No. 6/2022), dat
 
 resource: https://decree.om/2022/rd20220006/
 
+## Misconception in My Track:
+Under Oman's Personal Data Protection Law (PDPL) — issued by Royal Decree and overseen by the Ministry of Transport, Communications and Information Technology (MTCIT) — any authority, controller, or public/private entity that collects and stores citizens' personal data must follow strict statutory obligations:
+
+• Special Permits for Sensitive Data: Processing sensitive categories — such as health, genetic, or biometric data — requires a prior official permit from the MTCIT.
+• Data Subject Rights Support: Authorities must establish mechanisms allowing citizens to exercise their rights — including accessing, modifying, updating, transferring, or erasing their personal data, or revoking their consent — with a 45-day response limit.
+• Breach Notifications: If a security breach occurs that risks data integrity or privacy, the authority must notify both the MTCIT and the affected citizens within 72 hours.
+• Cross-Border Transfer Controls: Transferring personal data outside Oman requires meeting strict protection standards, ensuring data equivalence, and obtaining prior consent or approval from relevant authorities (such as the Cyber Defence Centre).
+## open question:
+Next I want to discover new ways to improve connectivity between people by AI
+
+
 
 
 
